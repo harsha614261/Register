@@ -1,1 +1,1 @@
-User Register form using HTML and CSS
+User Registration form using HTML and CSS
